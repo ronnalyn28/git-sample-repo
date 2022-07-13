@@ -1,4 +1,4 @@
-# Command classification list by LYN
+# Command classification list
 # ---------------------------
 # All supported commands, builtin or external, must be described in
 # here. This info is used to list commands in various places. Each
@@ -45,7 +45,7 @@
 #
 ### command list (do not change this line)
 # command name                          category [category] [category]
-git-add                                 mainporcelain           worktree
+git-add                                 mainporcelain           worktree //add a file in the repository
 git-am                                  mainporcelain
 git-annotate                            ancillaryinterrogators
 git-apply                               plumbingmanipulators            complete
