@@ -216,9 +216,23 @@ gittutorial-2                           guide
 gitweb                                  ancillaryinterrogators
 gitworkflows                            guide
 
+<<<<<<< HEAD
 -----------------------------------------------------------
 Ronna added details here1
 Ronna added details here2
 Ronna added details here3
 Ronna added details here4
 Ronna added details here5
+=======
+
+
+
+
+
+---------------------------------------------
+Ronna Edited this for privatebranch2
+Ronna Edited this for privatebranch2
+Ronna Edited this for privatebranch2
+Ronna Edited this for privatebranch2
+Ronna Edited this for privatebranch2
+>>>>>>> privatebranch2
